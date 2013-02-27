@@ -1,0 +1,4 @@
+.classpath
+*.swp
+.project
+target/
